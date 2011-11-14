@@ -1,0 +1,32 @@
+========================================
+| LightController                      |
+| Máté Farkas                          |
+| reklamnelkul AT gmail.com            |
+| 2011                                 |
+========================================
+
+LEARÁS:
+
+Ez a project egy AVR mikrokontrolleres fényerõszabályozóhoz készül.
+A hardver RS232-n kommunikál a PC-vel és ez alapján állítja be a kimeneteit 0-10V-ra. (analóg dimmert vezérel)
+Ennek a szoftvernek az a feladata, hogy a parancssoros felület helyett valami szép, kényelmes grafikus felületrõl lehessen mindezt változtatni.
+
+========================================
+
+FORDÍTÁS:
+
+javac src/*.java
+vagy
+./compile.[sh|bat]
+
+========================================
+
+FUTTATÁS:
+
+./run.[sh|bat]
+
+========================================
+
+A "PROTOKOLL":
+
+parancsok...
