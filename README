@@ -1,19 +1,19 @@
 ========================================
 | LightController                      |
-| M�t� Farkas                          |
+| Máté Farkas                          |
 | reklamnelkul AT gmail.com            |
 | 2011                                 |
 ========================================
 
-LEAR�S:
+LEARÁS:
 
-Ez a project egy AVR mikrokontrolleres f�nyer�szab�lyoz�hoz k�sz�l.
-A hardver RS232-n kommunik�l a PC-vel �s ez alapj�n �ll�tja be a kimeneteit 0-10V-ra. (anal�g dimmert vez�rel)
-Ennek a szoftvernek az a feladata, hogy a parancssoros fel�let helyett valami sz�p, k�nyelmes grafikus fel�letr�l lehessen mindezt v�ltoztatni.
+Ez a project egy AVR mikrokontrolleres fényerőszabályozóhoz készül.
+A hardver RS232-n kommunikál a PC-vel és ez alapján állítja be a kimeneteit 0-10V-ra. (analóg dimmert vezérel)
+Ennek a szoftvernek az a feladata, hogy a parancssoros felület helyett valami szép, kényelmes grafikus felületről lehessen mindezt változtatni.
 
 ========================================
 
-FORD�T�S:
+FORDÍTÁS:
 
 javac src/*.java
 vagy
@@ -21,7 +21,7 @@ vagy
 
 ========================================
 
-FUTTAT�S:
+FUTTATÁS:
 
 ./run.[sh|bat]
 
