@@ -7,9 +7,8 @@
 
 DESCRIPTION:
 
-Ez a project egy AVR mikrokontrolleres fényerőszabályozóhoz készül.
-A hardver RS232-n kommunikál a PC-vel és ez alapján állítja be a kimeneteit 0-10V-ra. (analóg dimmert vezérel)
-Ennek a szoftvernek az a feladata, hogy a parancssoros felület helyett valami szép, kényelmes grafikus felületről lehessen mindezt változtatni.
+This project is for an AVR microcontroller system which controls an analog dimmer from a PC through RS232 serial port.
+This softvare's goal is to be a user-friendly replacement of command line.
 
 ========================================
 
@@ -37,3 +36,12 @@ RUN:
 THE "PROTOCOL":
 
 commands...
+
+========================================
+
+TODO:
+
+The main goal is a stage-light-controller for theatrical performances.
+1: events (time controlled, manual, external event)
+2: Sound effects / background music ...
+3: DMX extension (+hardware) for fog machines and stroboscopes...
